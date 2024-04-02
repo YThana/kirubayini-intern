@@ -29,7 +29,7 @@ function wealthConnect() {
 					</button>
 				</div>
 			</div>
-			<div className="flex items-center mr-[64px]">
+			<div className="flex flex-1  items-center justify-end mr-[64px]">
 				<img
 					src={wealthConnectImg}
 					alt="wealt connect"

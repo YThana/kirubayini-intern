@@ -11,13 +11,13 @@ function contact() {
 						tailored solutions
 					</h1>
 					<div className="flex gap-[10px]">
-						<div className="text-[#082F44] font-semibold rounded-full items-center flex px-4 h-[42px] bg-[#165d7d1f] text-[#082F44] capitalize">
+						<div className="font-semibold rounded-full items-center flex px-4 h-[42px] bg-[#165d7d1f] text-[#082F44] capitalize">
 							wealth
 						</div>
-						<div className="text-[#082F44] font-semibold rounded-full items-center flex px-4 h-[42px] bg-[#165d7d1f] text-[#082F44] capitalize">
+						<div className="font-semibold rounded-full items-center flex px-4 h-[42px] bg-[#165d7d1f] text-[#082F44] capitalize">
 							advisory
 						</div>
-						<div className="text-[#082F44] font-semibold rounded-full items-center flex px-4 h-[42px] bg-[#165d7d1f] text-[#082F44] capitalize">
+						<div className="font-semibold rounded-full items-center flex px-4 h-[42px] bg-[#165d7d1f] text-[#082F44] capitalize">
 							venture
 						</div>
 					</div>
@@ -27,7 +27,7 @@ function contact() {
 						</button>
 					</div>
 				</div>
-				<div className="flex justify-end flex-1 h-full">
+				<div className="justify-end flex-1 flex h-full">
 					<img src={img} alt="contact" className="object-cover"></img>
 				</div>
 			</div>
